@@ -1,0 +1,15 @@
+<component info='CentraStage Component'>
+  <general>
+    <name>Bitlocker Keys [Win7]</name>
+    <category>scripts</category>
+    <description>Grabs Bitlocker keys for C drive only, works with Windows 7 and up.
+
+Icon from https://openclipart.org/detail/190821/cles-de-serrure-lock-keys</description>
+    <uid>566ebe84-faaf-4db2-9e92-248560ffdd0d</uid>
+    <hash />
+    <version>6</version>
+    <timeout>600</timeout>
+    <securityLevel>3</securityLevel>
+    <installType>batch</installType>
+  </general>
+</component>
